@@ -4,7 +4,7 @@ import "../styles/Header.css"
 function Header(props) {
     return (
         <nav className="navbar navbar-expand-lg">
-            <a className="navbar-brand" href="/">
+            <a className="navbar-brand" href="/clicky-game/">
                 Clicky Game
              </a>
             <span className="m-4 message">{props.message}</span>
