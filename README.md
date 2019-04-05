@@ -1,4 +1,4 @@
-# clicky-game
+# Clicky-game
  Click based game built with react
  
 ## Click on an image to start the game!!
